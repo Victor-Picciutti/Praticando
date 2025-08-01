@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\Praticando\Operador\obj\Debug\net9.0\Operador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Praticando\Operador\obj\Debug\net9.0\Operador.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Praticando\Operador\obj\Debug\net9.0\Operador.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Praticando\Operador\obj\Debug\net9.0\Operador.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Praticando\Operador\bin\Debug\net9.0\Operador.exe
+C:\Users\Victor\Desktop\Praticando\Operador\bin\Debug\net9.0\Operador.deps.json
+C:\Users\Victor\Desktop\Praticando\Operador\bin\Debug\net9.0\Operador.runtimeconfig.json
+C:\Users\Victor\Desktop\Praticando\Operador\bin\Debug\net9.0\Operador.dll
+C:\Users\Victor\Desktop\Praticando\Operador\bin\Debug\net9.0\Operador.pdb
+C:\Users\Victor\Desktop\Praticando\Operador\obj\Debug\net9.0\Operador.dll
+C:\Users\Victor\Desktop\Praticando\Operador\obj\Debug\net9.0\refint\Operador.dll
+C:\Users\Victor\Desktop\Praticando\Operador\obj\Debug\net9.0\Operador.pdb
+C:\Users\Victor\Desktop\Praticando\Operador\obj\Debug\net9.0\Operador.genruntimeconfig.cache
+C:\Users\Victor\Desktop\Praticando\Operador\obj\Debug\net9.0\ref\Operador.dll
