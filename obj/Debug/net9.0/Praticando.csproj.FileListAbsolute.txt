@@ -1,0 +1,5 @@
+C:\Users\Victor\Desktop\Praticando\DS\Praticando\obj\Debug\net9.0\Praticando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\Desktop\Praticando\DS\Praticando\obj\Debug\net9.0\Praticando.AssemblyInfoInputs.cache
+C:\Users\Victor\Desktop\Praticando\DS\Praticando\obj\Debug\net9.0\Praticando.AssemblyInfo.cs
+C:\Users\Victor\Desktop\Praticando\DS\Praticando\obj\Debug\net9.0\Praticando.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\Praticando\DS\Praticando\obj\Debug\net9.0\Praticando.sourcelink.json
